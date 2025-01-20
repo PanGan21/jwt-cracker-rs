@@ -1,4 +1,4 @@
-# wait-for-rs
+# jwt-cracker-rs
 
 A high-performance Rust-based command-line tool for brute-forcing secrets of JSON Web Tokens (JWTs). It supports HMAC algorithms and showcases potential vulnerabilities in JWTs with weak secrets. Use this tool responsibly for educational or security research purposes.
 
